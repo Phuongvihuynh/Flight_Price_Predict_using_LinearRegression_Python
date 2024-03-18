@@ -4,7 +4,7 @@
 In this Project I have analyze, gain insight and build a model to predict flight price based on OLS Linear Regression in the FlightFare dataset.
 
 ## Roadmap
-* Data subset collected from kaggle: https://www.kaggle.com/shivamb/netflix-shows .
+* Data subset collected from kaggle: 
 * Loading Libraries
 * Data Cleaning & Finding Missing values
 * Data Visualization
